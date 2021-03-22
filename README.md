@@ -8,3 +8,5 @@ Code logic can be view here: https://github.com/jianshenlim/Multi-agent-train-sc
 
 Sample output can be viewed here: https://jianshenlim.github.io/
 
+Requires the flatlands framework to be installed
+
